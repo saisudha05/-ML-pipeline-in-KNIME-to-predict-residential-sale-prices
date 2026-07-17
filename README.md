@@ -26,11 +26,13 @@ Model Training & Evaluation — Linear Regression and Random Forest (100 trees),
 **#🛠️ Tools**
 KNIME Analytics Platform — visual workflow / pipeline execution
 Nodes used: CSV Reader, Column Filter, Histogram, Statistics, Normalizer, Missing Value, Math Formula, Partitioning, Linear Regression Learner/Predictor, Random Forest Learner/Predictor, Numeric Scorer, Scatter Plot
+
 **#🚀 Future Improvements**
 Apply a log transformation to the price target to directly address the right-skew
 Add interaction features between location and property size
 Test gradient boosting (XGBoost / LightGBM) against Random Forest
 Implement cross-validation for more robust evaluation
+
 **#📄 Full Report**
 See report.pdf for the complete write-up, including detailed node configurations, coefficient tables, and feature importance rankings.
 
